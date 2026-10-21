@@ -1,6 +1,7 @@
 # Marjorye Rodrigues
 
 Análise e Desenvolvimento De Sistemas | Systems Analysis and Development
+
 Educação, Criatividade, Tecnologia | Education, Creativity, Technology 💡
 
 ---
