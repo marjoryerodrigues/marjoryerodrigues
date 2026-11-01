@@ -9,15 +9,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
     />
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
       alt="GitHub Statistics"
     />
   </picture>
@@ -27,15 +27,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=tokyonight&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=tokyonight&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=default&hide_border=true"
     />
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=default&hide_border=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=default&hide_border=true"
       alt="Most Used Languages"
     />
   </picture>
