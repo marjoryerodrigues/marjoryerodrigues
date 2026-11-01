@@ -1,11 +1,1 @@
-# Marjorye Rodrigues
-
-Análise e Desenvolvimento De Sistemas | Systems Analysis and Development
-
-Educação, criatividade, tecnologia | Education, creativity, technology 💡
-
----
-
-Aprendendo e desenvolvendo habilidades em programação e desenvolvimento web. Explorando tecnologia de forma criativa e organizada.
-
-Sempre aprendendo e criando. | Always learning and creating. 🌱
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
