@@ -44,13 +44,3 @@
 </a>
 
 </div>
-
-    <img
-      height="180"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&theme=default&hide_border=true"
-      alt="Most Used Languages"
-    />
-  </picture>
-</a>
-
-</div>
