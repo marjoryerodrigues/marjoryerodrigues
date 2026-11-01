@@ -9,7 +9,19 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=marjoryerodrigues&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true"
+    />
+    <img
+      height="180"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true"
+      alt="Most Used Languages"
+    />
+  </picture>
+</a>
     />
     <source
       media="(prefers-color-scheme: light)"
