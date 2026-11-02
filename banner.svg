@@ -1,14 +1,42 @@
-<text x="500" y="125"
-  text-anchor="middle"
-  font-family="Arial, Helvetica, sans-serif"
-  fill="#FFFFFF">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="260"
+     viewBox="0 0 1000 260">
 
-  <tspan font-size="39" font-weight="600">
-    Welcome to
-  </tspan>
+  <!-- Camada inferior -->
+  <path
+    d="
+      M0 0
+      H982
+      L1000 226
+      C840 246 710 222 560 235
+      C390 250 240 214 100 235
+      L0 242 Z"
+    fill="#5B21B6"
+  />
 
-  <tspan font-size="49" font-weight="bold">
-    Marjorye's GitHub!
-  </tspan>
+  <!-- Superfície principal -->
+  <path
+    d="
+      M0 0
+      H980
+      L1000 207
+      C850 221 730 204 580 218
+      C420 231 270 198 120 216
+      L0 220 Z"
+    fill="#8B5CF6"
+  />
 
-</text>
+  <!-- Título -->
+  <text
+    x="500"
+    y="125"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    fill="#FFFFFF">
+
+    <tspan font-size="39" font-weight="600">Welcome to </tspan><tspan font-size="49" font-weight="bold">Marjorye's GitHub!</tspan>
+
+  </text>
+
+</svg>
