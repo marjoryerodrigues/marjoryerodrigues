@@ -35,3 +35,27 @@
   explorando o desenvolvimento Front-End enquanto
   amplio meus conhecimentos em tecnologias Back-End.
 </p>
+<h2 align="left">💜 Languages and Tools</h2>
+
+<h3 align="left">Languages & Technologies</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portugol-8B5CF6?style=for-the-badge" />
+</div>
+
+<h3 align="left">Development Tools</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+<h3 align="left">Design</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
