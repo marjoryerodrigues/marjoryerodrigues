@@ -12,7 +12,7 @@
   </p>
 
 </div>
-<h2 align="left">💜 About Me | Sobre Mim</h2>
+<h2 align="left">About Me | Sobre Mim</h2>
 
 <p align="left">
   I'm a Systems Development student passionate about
@@ -27,7 +27,7 @@
   explorando o desenvolvimento Front-End enquanto
   amplio meus conhecimentos em tecnologias Back-End.
 </p>
-<h2 align="left">💜 Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
 <h3 align="left">Languages & Technologies</h3>
 
@@ -51,14 +51,14 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-<h2 align="left">💜 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
   <a href="mailto:marjorye.p.rodrigues@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<h2 align="left">💜 GitHub Analytics</h2>
+<h2 align="left">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -89,7 +89,7 @@
   </a>
 
 </div>
-<h2 align="left">💜 Featured Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
 <h3>📚 Atlas Library</h3>
 
@@ -101,7 +101,7 @@
 <a href="https://github.com/marjoryerodrigues/atlas-library.git">
   <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<h2 align="left">💜 Currently Learning</h2>
+<h2 align="left">Currently Learning</h2>
 
 <p align="left">
   Always exploring new technologies and improving my skills.
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-  <h2>💜 Thanks for visiting!</h2>
+  <h2>Thanks for visiting!</h2>
 
   <p>
     <strong>
