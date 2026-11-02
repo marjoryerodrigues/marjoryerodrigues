@@ -1,6 +1,9 @@
 <div align="center">
 
-<h3 style="color: #8B5CF6;">WELCOME TO</h3>
+<img
+  src="https://img.shields.io/badge/WELCOME_TO-8B5CF6?style=for-the-badge&labelColor=1F1235"
+  alt="WELCOME TO"
+/>
 
   <h1>Marjorye's GitHub!</h1>
 
