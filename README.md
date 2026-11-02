@@ -122,3 +122,24 @@
   <img src="https://img.shields.io/badge/Front--End_Development-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Back--End_Development-8B5CF6?style=for-the-badge" />
 </div>
+<br>
+
+<div align="center">
+
+  <h2>💜 Thanks for visiting!</h2>
+
+  <p>
+    <strong>
+      Building ideas into reality, one line of code at a time.
+    </strong>
+  </p>
+
+  <p>
+    Construindo ideias em realidade, uma linha de código por vez.
+  </p>
+
+  <sub>
+    Made with creativity, curiosity and passion for technology.
+  </sub>
+
+</div>
