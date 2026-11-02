@@ -1,16 +1,6 @@
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/WELCOME_TO-8B5CF6?style=for-the-badge&labelColor=1F1235"
-  alt="WELCOME TO"
-/>
-
-  <h1>Marjorye's GitHub!</h1>
-
-  <p>
-    <strong>Desenvolvimento de Sistemas | Systems Development</strong>
-  </p>
-
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Welcome to Marjorye's GitHub!">
+</p>
   <p>
     Educação, criatividade e tecnologia 💜<br>
     Education, creativity and technology
