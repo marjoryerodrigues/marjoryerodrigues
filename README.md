@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3>WELCOME TO</h3>
+<h3 style="color: #8B5CF6;">WELCOME TO</h3>
 
   <h1>Marjorye's GitHub!</h1>
 
