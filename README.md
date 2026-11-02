@@ -66,3 +66,34 @@
     <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+<h2 align="left">💜 GitHub Analytics</h2>
+
+<div align="center">
+
+  <a href="https://github.com/marjoryerodrigues">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api?username=marjoryerodrigues&show_icons=true&theme=midnight-purple"
+      />
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api?username=marjoryerodrigues&show_icons=true&theme=default"
+      />
+    </picture>
+  </a>
+
+  <a href="https://github.com/marjoryerodrigues">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=midnight-purple"
+      />
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=marjoryerodrigues&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default"
+      />
+    </picture>
+  </a>
+
+</div>
