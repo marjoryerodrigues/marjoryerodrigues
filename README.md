@@ -59,3 +59,10 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+<h2 align="left">💜 Connect With Me</h2>
+
+<div align="left">
+  <a href="mailto:marjorye.p.rodrigues@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
