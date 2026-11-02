@@ -1,1 +1,14 @@
+<text x="500" y="125"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  fill="#FFFFFF">
 
+  <tspan font-size="39" font-weight="600">
+    Welcome to
+  </tspan>
+
+  <tspan font-size="49" font-weight="bold">
+    Marjorye's GitHub!
+  </tspan>
+
+</text>
