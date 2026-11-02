@@ -19,10 +19,3 @@
   </p>
 
 </div>
-## 📈 Atividade no GitHub | GitHub Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marjoryerodrigues&theme=tokyo-night&bg_color=1A1725&color=C4B5FD&line=A78BFA&point=FFFFFF&area=true&hide_border=true)](https://github.com/marjoryerodrigues)
-
-</div>
