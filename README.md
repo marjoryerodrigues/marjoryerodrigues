@@ -27,18 +27,6 @@
   Currently exploring Front-End Development while
   expanding my knowledge of Back-End technologies.
 </p>
-<h2 align="left">💜 Featured Projects</h2>
-
-<h3>📚 Atlas Library</h3>
-
-<p>
-  A collaborative digital library project focused
-  on Front-End and Back-End development.
-</p>
-
-<a href="https://github.com/marjoryerodrigues/atlas-library.git">
-  <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <p align="left">
   Sou estudante de Desenvolvimento de Sistemas,
   apaixonada por tecnologia, criatividade e
@@ -108,6 +96,18 @@
   </a>
 
 </div>
+<h2 align="left">💜 Featured Projects</h2>
+
+<h3>📚 Atlas Library</h3>
+
+<p>
+  A collaborative digital library project focused
+  on Front-End and Back-End development.
+</p>
+
+<a href="https://github.com/marjoryerodrigues/atlas-library.git">
+  <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <h2 align="left">💜 Currently Learning</h2>
 
 <p align="left">
