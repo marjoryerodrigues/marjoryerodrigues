@@ -108,3 +108,17 @@
   </a>
 
 </div>
+<h2 align="left">💜 Currently Learning</h2>
+
+<p align="left">
+  Always exploring new technologies and improving my skills.
+  <br>
+  Sempre explorando novas tecnologias e aprimorando minhas habilidades.
+</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End_Development-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Back--End_Development-8B5CF6?style=for-the-badge" />
+</div>
